@@ -1,4 +1,6 @@
 # tech-usage-stress-analysis
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Status](https://img.shields.io/badge/Project-Completed-green)
 
 **One-Sentence Summary**  
 This project explores how technology usage, wellness habits, and work patterns relate to stress, sleep, and mood using Python on a Kaggle dataset.  
